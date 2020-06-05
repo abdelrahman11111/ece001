@@ -1,0 +1,35 @@
+.webpage{
+    
+  background-image: url('photo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+    
+}
+p{
+ font-size:x-large; 
+}
+
+h1 {
+  display: inline-block;
+   background-color: pink;
+
+}
+
+li{
+ font-size: large;
+    
+}
+table{
+   font-size: large;
+}
+ol{
+    list-style-type:disc;
+    font-size: large;
+   }
+  
+
+
+
+
